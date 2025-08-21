@@ -3,6 +3,10 @@
 ## Video:
 
 
+https://github.com/user-attachments/assets/fc30cb84-cd55-448a-8ab2-1a49c97337ba
+
+
+
 ## Detailed Output:
 ```
 (venv) mcyber@mcyber-VirtualBox:~/dolphin-framework$ python src/core/main.py --mode simulate --duration 240
