@@ -423,25 +423,7 @@ python src/core/main.py --config-dir config-production
 
 ## Expected Output Analysis
 
-### Simulation 1 Example Output:
-
-<a href="https://github.com/MenakaGodakanda/Geo-fenced-honeytoken/blob/main/simulation-01/readme.md">Simulation 01</a>
-
-### Simulation 2 Example Output:
-
-<a href="https://github.com/MenakaGodakanda/Geo-fenced-honeytoken/blob/main/simulation-02/readme.md">Simulation 02</a>
-
-### Simulation 3 Example Output:
-
-<a href="https://github.com/MenakaGodakanda/Geo-fenced-honeytoken/blob/main/simulation-03/readme.md">Simulation 03</a>
-
-### Simulation 4 Example Output:
-
-<a href="https://github.com/MenakaGodakanda/Geo-fenced-honeytoken/blob/main/simulation-03/readme.md">Simulation 03</a>
-
-### Simulation 5 Example Output:
-
-<a href="https://github.com/MenakaGodakanda/Geo-fenced-honeytoken/blob/main/simulation-03/readme.md">Simulation 03</a>
+<a href="https://github.com/MenakaGodakanda/dolphin-framework/blob/main/simulation.md">Simulation Output Analysis</a>
 
 ## File Structure
 ```
