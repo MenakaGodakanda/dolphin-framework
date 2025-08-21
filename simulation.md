@@ -2,28 +2,15 @@
 
 ## Simulation Output
 
-### Simulation 01:
-
-<a href="https://github.com/MenakaGodakanda/dolphin-framework/blob/main/Sim01/README.md">Simulation 01</a>
-
-### Simulation 02:
-
-<a href="https://github.com/MenakaGodakanda/dolphin-framework/blob/main/Sim02/README.md">Simulation 02</a>
-
-### Simulation 03:
-
-<a href="https://github.com/MenakaGodakanda/dolphin-framework/blob/main/Sim03/README.md">Simulation 03</a>
-
-### Simulation 04:
-
-<a href="https://github.com/MenakaGodakanda/dolphin-framework/blob/main/Sim04/README.md">Simulation 04</a>
-
-### Simulation 05:
-
-<a href="https://github.com/MenakaGodakanda/dolphin-framework/blob/main/Sim05/README.md">Simulation 05</a>
+| Simulation |	Output |
+|-------|-------|
+| Simulation 01 | <a href="https://github.com/MenakaGodakanda/dolphin-framework/blob/main/Sim01/README.md">Simulation 01 Output</a> |
+| Simulation 02 | <a href="https://github.com/MenakaGodakanda/dolphin-framework/blob/main/Sim02/README.md">Simulation 02 Output</a> |
+| Simulation 03 | <a href="https://github.com/MenakaGodakanda/dolphin-framework/blob/main/Sim03/README.md">Simulation 03 Output</a> |
+| Simulation 04 | <a href="https://github.com/MenakaGodakanda/dolphin-framework/blob/main/Sim04/README.md">Simulation 04 Output</a> |
+| Simulation 05 | <a href="https://github.com/MenakaGodakanda/dolphin-framework/blob/main/Sim05/README.md">Simulation 05 Output</a> |
 
 ## Results Overview
-
 
 | Metric |	Sim01 |	Sim02 |	Sim03 |	Sim04 |	Sim05 |	Average |
 |-------|-------|-------|-------|-------|-------|-------|
